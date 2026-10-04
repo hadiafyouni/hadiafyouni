@@ -4,4 +4,4 @@ Final-year Computer Science student at City University, Lebanon, heading toward 
 
 Currently interning on a monitoring system for network switches and IoT devices.
 
-Python · TensorFlow/Keras · TypeScript · Go · C# · PostgreSQL · Next.js · Docker
+Python · TensorFlow/Keras · TypeScript · Go · C# · PostgreSQL · Next.js · Node.js
