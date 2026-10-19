@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0055A4,50:FFFFFF,100:EF4135&text=Hadi%20Afyouni&fontColor=002654&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20C%23%20%7C%20Applied%20ML&descAlignY=60" alt="Hadi Afyouni banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:052E16,35:14532D,70:166534,100:22C55E&text=Hadi%20Afyouni&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20C%23%20%7C%20Applied%20ML&descAlignY=60" alt="Hadi Afyouni banner" />
 
 # 👋 Hi, I'm Hadi Afyouni
 
