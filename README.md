@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Hadi%20Afyouni&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Go%20%C2%B7%20TypeScript%20%C2%B7%20C%23%20%7C%20Applied%20ML&descAlignY=60" alt="Hadi Afyouni banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Hadi%20Afyouni&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20C%23%20%7C%20Applied%20ML&descAlignY=60" alt="Hadi Afyouni banner" />
 
 # 👋 Hi, I'm Hadi Afyouni
 
@@ -23,7 +23,7 @@ Final-year **Computer Science** student at **City University, Lebanon** • Head
 
 I'm a full-stack developer who enjoys the hard parts of real systems: payments that can't double-charge, dispatchers that can't double-book, and checkouts that never leave a half-created order.
 
-I work across **Go, TypeScript, C# and Python**, and I've taken projects from idea to production, including a live e-commerce and catering platform for a client in Australia.
+I work across **Next.js, Node.js, TypeScript, C# and Python**, and I've taken projects from idea to production, including a live e-commerce and catering platform for a client in Australia.
 
 - 🛒 **Production work:** designed, built, deployed and maintain [matchahorikku.com.au](https://www.matchahorikku.com.au)
 - 🚑 **Systems I like:** real-time, concurrent and location-aware applications
